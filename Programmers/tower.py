@@ -23,4 +23,4 @@ def solution(heights):
 #                 break
 #     return ans
 
-print(solution([6,9,5,7,4]))  # answer == [0,0,2,2,4]
+print(solution([6,9,5,7,4])) # answer == [0,0,2,2,4]
