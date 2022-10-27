@@ -32,7 +32,7 @@ void print_stack () {
     printf("\n");
 }
 
-int main () {
+int main() {
     print_stack();
 
     push(1);

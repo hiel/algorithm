@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main () {
+int main() {
     int i, sum, ary[20000] = {0, };
 
     for (i = 1; i < 10001; i++) {

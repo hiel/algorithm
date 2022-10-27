@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main () {
+int main() {
     bool q = false;
     int i, t, r, m = 0, c[26] = {0, };
     char *s = new char[1000000];

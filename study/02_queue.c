@@ -37,7 +37,7 @@ void print_queue () {
     printf("\n");
 }
 
-int main () {
+int main() {
     int value;
 
     print_queue();
